@@ -1,16 +1,16 @@
-CODTECH INTERNSHIP TASK 1    
+## CODTECH INTERNSHIP TASK 1    
 
-TO DO LIST
+## TO DO LIST
 
-NAME : ARUN KUMAR M
+**NAME :** ARUN KUMAR M
 
-ID : CT08DS5058
+**ID :** CT08DS5058
 
-COMPANY : CODTECH IT SOLUTIONS
+**COMPANY :** CODTECH IT SOLUTIONS
 
-DOMAIN : WEB DEVELOPMENT
+**DOMAIN :** WEB DEVELOPMENT
 
-DURATION : JULY TO AUGUST 2024
+**DURATION :** JULY TO AUGUST 2024
 
 ## To-Do List
 
@@ -26,8 +26,11 @@ To-Do List is a simple and intuitive task management application that helps you 
 2.Edit Tasks: Modify task details as needed.
 
 3.Delete Tasks: Remove tasks that are no longer needed.
+
 4.Mark as Complete: Check off tasks as you complete them.
+
 5.Task Prioritization: Organize tasks by priority to manage your time effectively.
+
 6.Responsive Design: Enjoy a seamless experience on any device.
 
 ## Technologies Used
